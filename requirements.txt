@@ -1,0 +1,15 @@
+spacy
+transformers
+torch
+sentencepiece
+pandas
+tqdm
+regex
+ftfy
+streamlit 
+opencv-python 
+ultralytics 
+deepface 
+pytesseract 
+Pillow 
+openai
